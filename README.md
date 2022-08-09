@@ -1,1 +1,1 @@
-# Basic Python Flask App for CI/CD Pipeline Practice
+# Practice in creating a CI CD Pipeline with a Basic Python Flask Application
